@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "macbookpro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/JirbuKp9uI7LJAYeQhGlAcn10xahSHEd5kXdANF4xA1HZXLEy5/",
+  "gitHubUrl": "https://github.com/youssoulam/uam-ci-cd-portfolio",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
